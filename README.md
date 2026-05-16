@@ -142,7 +142,7 @@ Interactive disaster-specific educational modules.
 
 Categorized emergency support system with quick access.
 
-![Contacts](./public/ss4.png)
+![Contacts](ss4.png)
 
 ---
 
@@ -150,7 +150,7 @@ Categorized emergency support system with quick access.
 
 Visual reports showing weekly activity and preparedness trends.
 
-![Progress](./public/ss5.png)
+![Progress](ss5.png)
 
 ---
 

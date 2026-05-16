@@ -118,7 +118,7 @@ Designed for immediate accessibility during emergencies.
 
 Simple role-based authentication system for students and administrators.
 
-![Login](./public/ss1.png)
+![Login](ss1.png)
 
 ---
 
@@ -126,7 +126,7 @@ Simple role-based authentication system for students and administrators.
 
 Tracks preparedness growth, drill performance, badges, and learning activity.
 
-![Dashboard](./public/ss2.png)
+![Dashboard](ss2.png)
 
 ---
 
@@ -134,7 +134,7 @@ Tracks preparedness growth, drill performance, badges, and learning activity.
 
 Interactive disaster-specific educational modules.
 
-![Modules](./public/ss3.png)
+![Modules](ss3.png)
 
 ---
 

@@ -5,7 +5,6 @@
 DisasterPrepEdu is a role-based disaster preparedness education platform built to transform traditional awareness programs into **interactive, skill-oriented digital training** for schools and colleges.
 Instead of depending only on occasional physical drills and theoretical sessions, the platform helps students practice emergency response through structured learning modules, quizzes, simulations, analytics, and gamified engagement.
 
-Designed with scalability and accessibility in mind, DisasterPrepEdu supports disaster readiness education for both **K–12 institutions and higher education environments**.
 
 ---
 
